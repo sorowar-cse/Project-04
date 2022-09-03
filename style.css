@@ -80,8 +80,17 @@ nav ul li a:hover::after {
 }
 
 
+.social-icons .btn3 {
+    padding: 7px 30px;
+    font-size: 18px;
+    margin-top: 20px;
+    cursor: pointer;
+}
 
-
+    .social-icons .btn3:hover {
+       color: #fff;
+    transform: translate(-5px); 
+    }
 
 .up {
   font-size: 35px;
